@@ -1,0 +1,11 @@
+{
+  "name": "ranjan.portfolio",
+  "version": "1.0.0",
+  "description": "personal portfolio of Ranjan Kumar Verma.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ranjan Kumar Verma",
+  "license": "ISC"
+}
